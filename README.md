@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">A passionate undergrad Computer & Communication student at Amrita Vishwa Vidyapeetham, Coimbatore</h5>
+<h3 align="left">A passionate undergrad Computer & Communication student at Amrita Vishwa Vidyapeetham, Coimbatore</h3>
 
 ###
 
