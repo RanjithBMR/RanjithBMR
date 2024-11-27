@@ -71,8 +71,8 @@
 ###
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img height="150" src="https://i.gifer.com/OSFi.gif" alt="GIF" />
-  <img height="150" src="https://raw.githubusercontent.com/RanjithBMR/RanjithBMR/output/snake.svg" alt="Snake animation" />
+  <img align="right" height="150" src="https://i.gifer.com/OSFi.gif" alt="GIF" />
+  <img align="left" height="150" src="https://raw.githubusercontent.com/RanjithBMR/RanjithBMR/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
