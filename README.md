@@ -2,12 +2,12 @@
 
 ###
 
-<h3 align="left">A passionate undergrad Computer & Communication student at Amrita Vishwa Vidyapeetham, Coimbatore</h3>
+<h5 align="left">A passionate undergrad Computer & Communication student at Amrita Vishwa Vidyapeetham, Coimbatore</h5>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanjithBMR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanjithBMR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=RanjithBMR&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RanjithBMR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -60,24 +60,22 @@
   <a href="https://www.instagram.com/bmr_again/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:ranjithbmr12@gmail.com" target="_blank">
+  <a href="ranjithbmr12@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ranjith-balu-a21958286/" target="_blank">
+  <a href="linkedin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img align="right" height="150" src="https://i.gifer.com/OSFi.gif" alt="GIF" />
-  <img src="https://raw.githubusercontent.com/RanjithBMR/output/main/snake.svg" alt="GitHub Snake" />
-</div>
-
+<img align="right" height="150" src="https://i.gifer.com/OSFi.gif"  />
 
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/RanjithBMR/RanjithBMR/output/snake.svg" alt="Snake animation" />
 
 ###
