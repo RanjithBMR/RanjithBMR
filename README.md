@@ -72,7 +72,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img align="right" height="150" src="https://i.gifer.com/OSFi.gif" alt="GIF" />
-  <img align="right" height="150" src="https://raw.githubusercontent.com/RanjithBMR/RanjithBMR/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/RanjithBMR/output/main/snake.svg" alt="GitHub Snake" />
 </div>
 
 
