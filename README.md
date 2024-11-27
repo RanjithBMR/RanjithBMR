@@ -70,12 +70,10 @@
 
 ###
 
-<img align="right" height="150" src="https://gifer.com/en/OSFi"  />
+<img align="right" height="150" src="https://i.gifer.com/OSFi.gif"  />
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/RanjithBMR/RanjithBMR/output/snake.svg" alt="Snake animation" />
 
 ###
